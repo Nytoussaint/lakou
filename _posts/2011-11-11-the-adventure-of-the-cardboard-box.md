@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Adventure of the Cardboard Box"
-author: "Arthur Conan Doyle"
+title: "Lakou Lakay"
+author: "Yannick Lahens"
 categories: literature
 ---
 
