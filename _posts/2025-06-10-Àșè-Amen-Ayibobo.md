@@ -10,3 +10,5 @@ The initiative embodies ethical principles by fostering inclusivity and respect 
 The project maintains a staunch commitment to intersectionality, refusing submissions that perpetuate harm towards marginalized groups based on factors such as gender identity, sexual orientation, class, ability, faith, citizenship, language. This approach promotes equity and prevents the perpetuation of injustices.
 
 Furthermore, the initiative consciously seeks to elevate spiritual and artistic traditions historically marginalized or underrepresented, fostering cultural appreciation and recognition. Submissions are encouraged from Haitian Vodou, Lucumi, Kongo, African Hebraic Traditions, Black Pentecostalism, Rastafari, Obeah, Hoodoo, Gwoka, Bomba, Gaga, Palo, Carolina Hymn and the like.
+
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://www.canva.com/design/DAGN0z66wTg/CUUoJr7qeLeSgz0V6BcT8Q/watch?utm_content=DAGN0z66wTg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3ce94f54c0)
