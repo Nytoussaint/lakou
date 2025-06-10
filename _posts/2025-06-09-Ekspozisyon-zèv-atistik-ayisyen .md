@@ -11,7 +11,7 @@ Yonn nan pi gwo zèv yo se te gwo tablo atis Jannwèl Pyè. Li te itilize koulè
 Ekspozisyon an gen pou objektif konekte vizitè ak atis yo e ankouraje yo wè pwòp tèt pa yo nan emosyon yo. Ekspozisyon an ap disponib pou piblik la jiska 5 jiyè, ak vizit gide chak samdi. 
 
 
-![alt text](image9.jpg)
+![alt text](/assets/images/image9.jpg)
 
 
 
