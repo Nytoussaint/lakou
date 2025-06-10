@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About
+title: Apwòpo
 ---
 
 Nan okazyon 6 jen, Jounen Latino-ameriken pou laprès, Marie-Laurence Jocelyn Lassègue, Clarens Renois, ak Liliane Pierre-Paul pale avèk Pierre Emmanuel sou kesyon libète laprès. 
