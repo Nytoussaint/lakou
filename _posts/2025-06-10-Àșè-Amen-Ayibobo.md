@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Àșè Amen Ayibobo"
+title: "Àṣẹ Amen Ayibobo"
 author: "Nyya Toussaint"
 categories: Exhibition
 ---
